@@ -45,7 +45,7 @@ Options:
 ## Installation
 
    ```bash
-   wget clone https://raw.githubusercontent.com/sakibulalikhan/asus-battery-health/main/abh && sudo mv abh /usr/bin/ && sudo chmod +x /usr/bin/abh && abh
+   wget https://raw.githubusercontent.com/sakibulalikhan/asus-battery-health/main/abh && sudo mv abh /usr/bin/ && sudo chmod +x /usr/bin/abh && abh
    ```
 
 ## Manual Installation
